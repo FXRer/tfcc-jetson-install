@@ -1,0 +1,9 @@
+include_tensorflow.tar.gz filter=lfs diff=lfs merge=lfs -text
+lib_cmake_TensorflowCC.tar.gz filter=lfs diff=lfs merge=lfs -text
+lib_pkconfig_protobuf.tar.gz filter=lfs diff=lfs merge=lfs -text
+lib_protobuf.tar.gz filter=lfs diff=lfs merge=lfs -text
+include_protobuf.tar.gz filter=lfs diff=lfs merge=lfs -text
+lib_tensorflow_cc.tar.gz filter=lfs diff=lfs merge=lfs -text
+share_eigen3.tar.gz filter=lfs diff=lfs merge=lfs -text
+share_pkconfig_eigen3.tar.gz filter=lfs diff=lfs merge=lfs -text
+include_eigen3.tar.gz filter=lfs diff=lfs merge=lfs -text
